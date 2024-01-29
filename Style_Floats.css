@@ -1,0 +1,50 @@
+.img1{
+    width: 300px;
+    float:right;
+}
+.img2{
+    width: 300px;
+    float:left;
+}
+
+.c1{
+    clear:;
+}
+
+.img3{
+    width: 300px;
+    float:right;
+}
+.img4{
+    width: 300px;
+    float:left;
+}
+
+.c2{
+    clear:both;
+}
+
+div{
+    float:left;
+}
+
+.d1{
+    width:100px;
+    height: 50px;
+    background-color: black;
+}
+.d2{
+    width:100px;
+    height: 50px;
+    background-color: brown;
+}
+.d3{
+    width:100px;
+    height: 50px;
+    background-color: blue;
+}
+.d4{
+    width:100px;
+    height: 50px;
+    background-color: chartreuse;
+}

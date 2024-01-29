@@ -1,0 +1,12 @@
+.d1{
+    width: 53px;
+    height: 60px;
+    background-repeat: no-repeat;
+    background-image: url(3.png);
+    background-position: 0px 0px;
+    border-radius: 50%;
+    transition:2s;
+}
+.d1:hover{
+    background-position: 0px -60px;
+}

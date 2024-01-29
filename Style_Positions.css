@@ -1,0 +1,45 @@
+.d1{
+    width: 600px;
+    height: 400px;
+    background-color: green;
+    position:absolute;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+    margin:auto;
+    /* position sticky and top=0 is used to keep the elements at the top when scrolling */
+    position:sticky;
+    top:0;
+}
+
+.d2{
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    position:absolute;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+    margin:auto;
+    border-radius: 50%;
+    /* position sticky and top=0 is used to keep the elements at the top when scrolling */
+    position:sticky;
+    top:0;
+}
+.d3{
+    margin-top:300px;
+    color:red;
+    text-align:center;
+    font-size:50px;
+    /* position sticky and top=0 is used to keep the elements at the top when scrolling */
+    
+}
+.d5{
+    position:fixed;
+    color:brown;
+    right:0;
+    bottom:0;
+    font-size:40px;
+}

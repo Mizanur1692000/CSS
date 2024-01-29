@@ -1,0 +1,14 @@
+img{
+    width: 400px;
+}
+
+img:hover{
+    opacity:0.5;
+}
+
+.d1{
+    width: 500px;
+    height: 600px;
+    background:url(1.jpeg) no-repeat center;
+    font-size: 50px;
+}

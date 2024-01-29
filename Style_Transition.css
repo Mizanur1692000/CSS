@@ -1,0 +1,27 @@
+.d1{
+    width: 400px;
+    height: 400px;
+    background-color: aquamarine;
+    margin:100px auto;
+    text-align: center;
+    transition-property: width;
+    transition-duration: 2s;
+    transition-timing-function: ease-out;
+}
+.d1:hover{
+    width:200px;
+    height: 200px;
+}
+.d2{
+    width: 400px;
+    height: 400px;
+    background-color: aquamarine;
+    margin:100px auto;
+    transition: all 4 linear;
+}
+.d2:hover{
+    width:200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: brown;
+}

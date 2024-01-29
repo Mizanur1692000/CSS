@@ -1,0 +1,17 @@
+.t1,th,td{
+    border:2px;
+    border-style: solid;
+    border-color:brown;
+    text-align:center;
+    padding:10px;
+}
+.t2,th,td{
+    border:2px;
+    border-style: solid;
+    border-collapse:collapse;
+}
+.t3,th,td{
+    border:3px;
+    border-style:solid;
+    border-color:blue;
+}

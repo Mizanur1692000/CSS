@@ -1,0 +1,67 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    background-color: aqua;
+}
+
+header{
+    width: 100%;
+    background-color:cadetblue;
+    color:white;
+    display: flex;
+}
+
+.d1{
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin-left: 5px;
+    padding:5px;
+    margin-top: 5px;
+} 
+
+.Navber{
+    display: flex;
+    justify-content: center;
+    padding-left: 4px;
+}
+
+.Navber ul{
+    list-style: none;
+}
+
+.Navber ul li{
+    background-color: cornflowerblue;
+    width:170px;
+    border: 1px solid #fff;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    float:left;
+    color:#fff;
+    font-size:16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    position:relative;
+}
+.Navber ul li a{
+    text-decoration: none;
+    text-align: center;
+    color:white;
+    justify-content: center;
+    align-items: center;
+}
+
+.Navber ul li:hover{
+    background-color:burlywood;
+    transition: all ease-in 0.2s;
+    border-radius: 10%;
+}
+.Navber ul ul{
+    display: none;
+}
+
+.Navber ul li:hover>ul{
+    display: block;
+}

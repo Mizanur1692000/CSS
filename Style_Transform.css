@@ -1,0 +1,38 @@
+.d1{
+    color:black;
+    width: 400px;
+    height: 400px;
+    background-color: aquamarine;
+    transform: rotate(45deg);
+    margin:100px auto;
+}
+.d1 h3{
+    text-align: center;
+    font-size:50px;
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+    top:40%;
+}
+.d2{
+    color:black;
+    width: 400px;
+    height: 400px;
+    background-color: aquamarine;
+    transform: scale(.5);
+    margin:100px auto;
+    text-align: center;
+}
+.d3{
+    width: 400px;
+    height: 400px;
+    background-color:brown;
+    transform: skew(45deg);
+    margin:100px auto;
+}
+.d4{
+    width: 400px;
+    height: 400px;
+    background-color:black;
+    transform: translate(0,200px);
+    margin:100px auto;
+}

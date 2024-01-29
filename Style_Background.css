@@ -1,0 +1,11 @@
+h1{
+    color:green;
+    /* The background of h1 will be red only */
+    background-color: red;
+}
+body{
+    background-color:aquamarine;
+    background-image:url(Mizanur.jpg);
+    background-repeat:no-repeat;
+    background-position: center;
+}

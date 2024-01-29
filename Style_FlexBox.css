@@ -1,0 +1,17 @@
+.FlexBox{
+    background-color: aqua;
+    font-size: 30px;
+    display:flex;
+    flex-wrap: wrap row;
+    justify-content: space-between;
+    height: 400px;
+    align-items: flex-start;
+}
+
+.FlexBox >div{
+    background-color:chocolate;
+    margin:5px;
+    padding:5px;
+    width: 100px;
+    
+}

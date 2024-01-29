@@ -1,0 +1,20 @@
+.p1{
+    border-width: 5px;
+    border-color:aquamarine;
+    border-style:solid;
+    border-radius:10px;
+}
+.p2{
+    border-width: 5px;
+    border-color:burlywood;
+    border-style:solid;
+}
+#p3{
+    border-width: 5px;
+    border-color:aqua;
+    border-style:dotted;
+}
+#p4{
+    border:10px goldenrod solid;
+    border-radius:20px;
+}

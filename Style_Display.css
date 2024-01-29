@@ -1,0 +1,21 @@
+.H1{
+    text-align: center;
+    color:darkorange;
+    /* inline to block */
+    display:inline-block;
+}
+.s1{
+    text-align: center;
+    display:block;
+}
+.H2{
+    /* stats the next element after h1 */
+    display:inline-block;
+}
+h2{
+    /* vanishes the element1 */
+    display:none;
+}
+ul, li{
+    display:inline;
+}

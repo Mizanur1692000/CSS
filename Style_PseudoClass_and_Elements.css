@@ -1,0 +1,19 @@
+a:hover{
+    color:black;
+    background-color: wheat;
+}
+
+h2:nth-child(3)
+{
+    color:blue;
+}
+h2:first-child{
+    color:hotpink;
+}
+p::first-letter{
+    color:red;
+    font-size:30px;
+}
+h1::after{
+    content:url(1.jpeg)
+}

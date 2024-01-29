@@ -1,0 +1,29 @@
+.H1{
+    color:cyan;
+}
+.H2{
+    color:rgb(0,255,0);
+}
+.H3{
+    color:rgb(255,0,0);
+}
+.H4{
+    color:rgb(0,0,255);
+}
+.H5{
+    color:rgb(0,0,255,0.5);
+}
+.H6{
+    color: #000;;
+}
+.H7{
+    color:#f0f;
+}
+.H8{
+    color:rgb(0,0,255,0.5);
+}
+div{
+    width: 200px;
+    height: 300px;
+    background:linear-gradient(rgba(255,0,0),green)
+}

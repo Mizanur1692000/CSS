@@ -1,0 +1,21 @@
+.d1{
+    width: 400px;
+    height: 500px;
+    border-width:10px;
+    border-color:aqua;
+    background-color: bisque;
+    border-style:solid;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    margin-right: 50px;
+    margin-left:20px;
+}
+#d2{
+    width: 200px;
+    height: 300px;
+    border-width:5px;
+    border-color:cornflowerblue;
+    background-color:black;
+    border-style:outset;
+    margin:50px 50px 50px 50px;
+}
